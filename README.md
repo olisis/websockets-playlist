@@ -1,2 +1,4 @@
 # websockets-playlist
-All the course files for the WebSockets playlist on The Net Ninja YouTube channel.
+set HomeDrive=c:\temp
+heroku git:remote -a findrodents
+heroku logs -n 200
